@@ -21,7 +21,7 @@ Import the DB then clone the project and after it become cloned by using apache 
 
 <h1>Homepage</h1>
 
-
+![](UI/Home.png)
 
 <h1>Consumption Management</h1>
 
