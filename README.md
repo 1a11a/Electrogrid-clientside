@@ -25,5 +25,7 @@ Import the DB then clone the project and after it become cloned by using apache 
 
 <h1>Consumption Management</h1>
 
+![](UI/ConsumptioManagement.png)
 
+![](UI/ConsumptionDeatails.png)
 
