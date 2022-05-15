@@ -15,7 +15,7 @@ Import the DB then clone the project and after it become cloned by using apache 
 
 
 #  Link  To ElectroGrid-ClientSide Database
-
+https://github.com/1a11a/Electrogrid-clientside/blob/main/Database/ElectroGrid-ClientSide.sql
 
 # Screenshot of the UI
 
